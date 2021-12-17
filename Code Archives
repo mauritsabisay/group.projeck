@@ -197,4 +197,15 @@ var race = function()
 
 };
 
+draw = function()
+{
+    
+    if (currentScene === 1)
+    {
+        space();
+        
+    }else if(currentScene === 2){
+        race();
+    }
+};
 
