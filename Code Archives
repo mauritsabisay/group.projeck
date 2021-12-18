@@ -178,7 +178,7 @@ var race = function()
 
         draw = function() {
             background(0, 0, 0);
-            drawArthurBitmoji(315,295,40);
+            drawArthurBitmoji(315,295,40);//draws Arthur's Bitmoji
             
             
             
